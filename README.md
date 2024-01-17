@@ -45,4 +45,4 @@ The keylogger is implemented in Python using the `pynput` library. It captures k
 ![Process](image/process.png)
 
 ### Output
-![OutPut](image/output.png)
+![OutPut](image/Output.png)
